@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo05_List</string>
+    <string name="btn_menu_list">Demo - List</string>
+    <string name="btn_menu_recycler">Demo - Recycler View</string>
+</resources>
